@@ -36,7 +36,10 @@ Practica Diweb
 * Software de **MarkDown**: **[MWeb](https://www.mweb.im/help.html)**. 
 
 ### Versionado:
-> 1.0
+
+* Sistemas operativos compatibles: **Windows**, **MacOS**, **Linux**.
+> Version de la aplicación: **1.0**
+
 ### Autor:
 
 [***_Jose Antonio Prats Romero_***](https://jprats.com/)
