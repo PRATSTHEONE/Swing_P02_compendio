@@ -12,6 +12,11 @@ Practica Diweb
 ### Despliegue (como ejecutar la aplicación desde el ejecutable)
 
 * Windows
+    
+      1. Ubica el archivo **JAR** haciendo clic en el menú "*Inicio*" y luego en "*Equipo*".
+      2. Navega hasta la ubicación del archivo **JAR**.
+      3. Haz *doble clic* en él.
+      4. Si todo ha ido correcto ha de **aparecer** la **calculadora** en su escritorio.
 
 * Línea de comandos
 
