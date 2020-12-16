@@ -1,28 +1,29 @@
 # Swing_P02_compendio
-Practica Diweb
 
-Contenido de la publicación:
+##Practica Diweb
 
-* Calculadora hecha en java con entorno gráfico, se pueden realizar las operaciones básicas 
-(suma, resta, multiplicación y división), con o sin decimales
+### Contenido de la publicación:
 
-Desarrollo del proyecto
+    * Calculadora hecha en java con entorno gráfico, se pueden realizar las operaciones básicas (suma, resta, multiplicación y división), con o sin decimales
 
-Despliegue (como ejecutar la aplicación desde el ejecutable)
-Windows
+### Desarrollo del proyecto
 
-Línea de comandos
+### Despliegue (como ejecutar la aplicación desde el ejecutable)
 
-Construido con
+* Windows
 
-Versionado
+* Línea de comandos
 
-Autores
+### Construido con
 
-Licencia
+### Versionado
+
+### Autores
+
+### Licencia
 
 * [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)
 
-Recursos adicionales:
+### Recursos adicionales:
 
 [Link a la propia página de GitHub del proyecto](https://github.com/PRATSTHEONE/Swing_P02_compendio.git)
