@@ -1,6 +1,6 @@
 # Swing_P02_compendio
 
-##Practica Diweb
+Practica Diweb
 
 ### Contenido de la publicación:
 
