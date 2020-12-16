@@ -1,0 +1,9 @@
+opción básica dispondrá de las siguientes funciones:
+
+Escribir números decimales.
+Sumar, restar, multiplicar o dividir.
+Añadir signo positivo / negativo al número que se encuentre en el visor.
+Borrar los datos.
+Validar los datos introducidos mostrando un mensaje de error en caso de que se introduzcan datos no válidos.
+Tú decides si el usuario puede o no introducir números en el cuadro de texto mediante el teclado o lo hará únicamente con los botones. 
+En cualquier caso debes gestionar esto para que no de error.
