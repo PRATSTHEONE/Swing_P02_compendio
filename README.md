@@ -13,14 +13,22 @@ Practica Diweb
 
 * Windows
     
-    1. Ubica el archivo **JAR** haciendo clic en el menú "*Inicio*" y luego en "*Equipo*".
-    2. Navega hasta la ubicación del archivo **JAR**.
-    3. Haz *doble clic* en él.
-    4. Si todo ha ido correcto ha de **aparecer** la **calculadora** en su escritorio.
-
+     1. Ubica el archivo **JAR** haciendo clic en el menú "*Inicio*" y luego en "*Equipo*".
+     2. Navega hasta la ubicación del archivo **JAR**.
+     3. Haz *doble clic* en él.
+     4. Si todo ha ido correcto ha de **aparecer** la **calculadora** en su escritorio.
 
 * Línea de comandos
 
+    1. Primero, desde la consola de comandos, cambia al directorio donde está el archivo y ejecútalo. Utiliza el comando "cd" para cambiar al directorio correcto.
+
+    2. Una vez dentro del mismo, ejecuta: 
+
+        `java -jar NombreDelArchivoJAR`
+
+    3. Donde "NombreDelArchivoJAR" es el nombre del archivo JAR. Esto es equivalente a hacer doble clic en el archivo dentro de un ambiente gráfico.
+
+   
 ### Construido con
 
 ### Versionado
