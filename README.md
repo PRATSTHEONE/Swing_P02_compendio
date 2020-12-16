@@ -12,4 +12,5 @@ Versionado
 Autores
 Licencia
 Recursos adicionales:
-[Link a la propia página de GitHub](https://github.com/PRATSTHEONE/Swing_P02_compendio.git)
+
+[Link a la propia página de GitHub del proyecto](https://github.com/PRATSTHEONE/Swing_P02_compendio.git)
