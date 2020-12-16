@@ -18,7 +18,7 @@ Practica Diweb
 7. Clonado del repositorio remoto en local con la aplicación: **[GibHub Desktop](https://desktop.github.com/)**
 8. Clonado local al directorio de nuestro git *Swing_P02_compendio* del contenido de nuestro proyecto.
 9. Envío de `comit` con los cambios.
-10. Realización del `push ` para sincronizar remotamente nuestro repositorio.
+10. Realización del `push` para sincronizar remotamente nuestro repositorio.
 
 ### Despliegue (como ejecutar la aplicación desde el ejecutable):
 
