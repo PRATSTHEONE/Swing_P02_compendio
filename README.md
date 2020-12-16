@@ -4,7 +4,8 @@ Practica Diweb
 
 ### Contenido de la publicación:
 
-    * Calculadora hecha en java con entorno gráfico, se pueden realizar las operaciones básicas (suma, resta, multiplicación y división), con o sin decimales
+    * Calculadora hecha en java con entorno gráfico, se pueden realizar las operaciones básicas 
+    (suma, resta, multiplicación y división), con o sin decimales
 
 ### Desarrollo del proyecto
 
