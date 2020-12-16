@@ -7,9 +7,9 @@ Practica Diweb
     * Calculadora hecha en java con entorno gráfico, se pueden realizar las operaciones básicas 
     (suma, resta, multiplicación y división), con o sin decimales
 
-### Desarrollo del proyecto
+### Desarrollo del proyecto:
 
-### Despliegue (como ejecutar la aplicación desde el ejecutable)
+### Despliegue (como ejecutar la aplicación desde el ejecutable):
 
 * Windows
     
@@ -17,6 +17,7 @@ Practica Diweb
      2. Navega hasta la ubicación del archivo **JAR**.
      3. Haz *doble clic* en él.
      4. Si todo ha ido correcto ha de **aparecer** la **calculadora** en su escritorio.
+
 
 * Línea de comandos
 
@@ -28,16 +29,19 @@ Practica Diweb
 
     3. Donde "NombreDelArchivoJAR" es el nombre del archivo JAR. Esto es equivalente a hacer doble clic en el archivo dentro de un ambiente gráfico.
 
-   
-### Construido con
+### Construido con:
 
-### Versionado
+* IDE *Eclipse*.
+* Lenguaje de programación empleado: **Java**.
+* Software de **MarkDown**: **[MWeb](https://www.mweb.im/help.html)**. 
+
+### Versionado:
 > 1.0
-### Autor
+### Autor:
 
-***_Jose Antonio Prats Romero_***
+[***_Jose Antonio Prats Romero_***](https://jprats.com/)
 
-### Licencia
+### Licencia:
 
 * [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.html)
 
