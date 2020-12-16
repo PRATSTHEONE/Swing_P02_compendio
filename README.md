@@ -1,4 +1,4 @@
-# Swing_P02_compendio
+# [Swing_P02_compendio](https://github.com/PRATSTHEONE/Swing_P02_compendio.git)
 
 Practica Diweb
 
@@ -18,8 +18,10 @@ Practica Diweb
 ### Construido con
 
 ### Versionado
+> 1.0
+### Autor
 
-### Autores
+***_Jose Antonio Prats Romero_***
 
 ### Licencia
 
@@ -27,4 +29,6 @@ Practica Diweb
 
 ### Recursos adicionales:
 
-[Link a la propia página de GitHub del proyecto](https://github.com/PRATSTHEONE/Swing_P02_compendio.git)
+* [Link a la propia página de GitHub](https://github.com/)
+* [Link de descarga del IDE Eclipse ](https://www.eclipse.org/downloads/)
+* [Link de descarga de Java](https://www.java.com/es/)
